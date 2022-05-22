@@ -1,0 +1,23 @@
+using System;
+
+namespace PrintAndSum
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int startNumber = int.Parse(Console.ReadLine());
+            int endNumber = int.Parse(Console.ReadLine());
+            int sum = 0;
+            string output = "";
+            for(int i=startNumber; i<=endNumber;i++)
+            {
+                output += i + " ";
+                sum += i;
+            }
+            Console.WriteLine(output);
+            Console.WriteLine($"Sum: {sum}");
+        }
+    }
+}
+
