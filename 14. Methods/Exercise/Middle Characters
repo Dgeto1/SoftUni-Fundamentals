@@ -1,0 +1,25 @@
+using System;
+
+namespace middleChar
+{
+    class Program
+    {
+        static string MiddleChar(string st)
+        {
+            if(st.Length%2!=0)
+            {
+                return st[st.Length/2].ToString();
+            }
+            else 
+            {
+                return st[st.Length / 2-1] + st[(st.Length / 2)].ToString();
+            }
+        }
+        static void Main(string[] args)
+        {
+            string st = Console.ReadLine();
+            Console.WriteLine(MiddleChar(st));
+        }
+    }
+}
+
