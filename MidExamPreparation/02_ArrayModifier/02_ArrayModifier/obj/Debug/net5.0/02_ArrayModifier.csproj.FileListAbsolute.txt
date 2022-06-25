@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/bin/Debug/net5.0/02_ArrayModifier
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/bin/Debug/net5.0/02_ArrayModifier.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/bin/Debug/net5.0/02_ArrayModifier.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/bin/Debug/net5.0/02_ArrayModifier.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/bin/Debug/net5.0/02_ArrayModifier.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/bin/Debug/net5.0/02_ArrayModifier.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/refint/02_ArrayModifier.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/02_ArrayModifier.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/02_ArrayModifier/02_ArrayModifier/obj/Debug/net5.0/ref/02_ArrayModifier.dll

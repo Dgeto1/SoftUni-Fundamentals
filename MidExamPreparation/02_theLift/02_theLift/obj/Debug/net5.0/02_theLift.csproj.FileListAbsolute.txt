@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/bin/Debug/net5.0/02_theLift
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/bin/Debug/net5.0/02_theLift.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/bin/Debug/net5.0/02_theLift.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/bin/Debug/net5.0/02_theLift.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/bin/Debug/net5.0/02_theLift.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/bin/Debug/net5.0/02_theLift.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/refint/02_theLift.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/02_theLift.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/02_theLift/02_theLift/obj/Debug/net5.0/ref/02_theLift.dll

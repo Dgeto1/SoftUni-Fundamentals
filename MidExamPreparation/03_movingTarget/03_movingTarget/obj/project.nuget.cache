@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kparhujKE/IKEGiUR2+RJxZfAt859fAcSdQGK3TPgy7G60L9zOx5xYU6kflq7QjLEL2/y+dE86PToMcUhCJyHw==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/03_movingTarget.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

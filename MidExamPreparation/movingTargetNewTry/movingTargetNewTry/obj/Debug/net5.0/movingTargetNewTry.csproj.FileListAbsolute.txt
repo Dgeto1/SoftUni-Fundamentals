@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/bin/Debug/net5.0/movingTargetNewTry
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/bin/Debug/net5.0/movingTargetNewTry.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/bin/Debug/net5.0/movingTargetNewTry.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/bin/Debug/net5.0/movingTargetNewTry.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/bin/Debug/net5.0/movingTargetNewTry.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/bin/Debug/net5.0/movingTargetNewTry.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/refint/movingTargetNewTry.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/movingTargetNewTry.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/movingTargetNewTry/movingTargetNewTry/obj/Debug/net5.0/ref/movingTargetNewTry.dll

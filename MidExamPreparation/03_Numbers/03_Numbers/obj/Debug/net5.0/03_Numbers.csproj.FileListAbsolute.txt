@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/bin/Debug/net5.0/03_Numbers
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/bin/Debug/net5.0/03_Numbers.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/bin/Debug/net5.0/03_Numbers.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/bin/Debug/net5.0/03_Numbers.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/bin/Debug/net5.0/03_Numbers.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/bin/Debug/net5.0/03_Numbers.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/refint/03_Numbers.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/03_Numbers.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/03_Numbers/03_Numbers/obj/Debug/net5.0/ref/03_Numbers.dll
