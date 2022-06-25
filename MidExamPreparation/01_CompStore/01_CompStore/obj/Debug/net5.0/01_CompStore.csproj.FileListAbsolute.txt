@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/bin/Debug/net5.0/01_CompStore
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/bin/Debug/net5.0/01_CompStore.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/bin/Debug/net5.0/01_CompStore.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/bin/Debug/net5.0/01_CompStore.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/bin/Debug/net5.0/01_CompStore.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/bin/Debug/net5.0/01_CompStore.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/refint/01_CompStore.dll
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.pdb
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/01_CompStore.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/ExamPreparation/01_CompStore/01_CompStore/obj/Debug/net5.0/ref/01_CompStore.dll

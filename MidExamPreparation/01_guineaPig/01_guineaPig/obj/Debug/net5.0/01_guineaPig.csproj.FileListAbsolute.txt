@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/bin/Debug/net5.0/01_guineaPig
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/bin/Debug/net5.0/01_guineaPig.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/bin/Debug/net5.0/01_guineaPig.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/bin/Debug/net5.0/01_guineaPig.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/bin/Debug/net5.0/01_guineaPig.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/bin/Debug/net5.0/01_guineaPig.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/refint/01_guineaPig.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/01_guineaPig.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/obj/Debug/net5.0/ref/01_guineaPig.dll

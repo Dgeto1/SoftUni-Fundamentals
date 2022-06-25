@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ycgv8hEBILA4ueE1wmjnU5cVmTC/Pe/KERW/xxNnezrre+OVQiy90U+sOsiLqqFIcPbPZrTtHv8whUF3vdo0A==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/01_guineaPig/01_guineaPig/01_guineaPig.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

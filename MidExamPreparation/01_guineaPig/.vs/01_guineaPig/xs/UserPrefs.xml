@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{82F67126-4781-4E48-A3D4-9E1893A86CF3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01__guineaPig PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_guineaPig/Program.cs">
+    <Files>
+      <File FileName="01_guineaPig/Program.cs" Line="47" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01_guineaPig" expanded="True">
+            <Node name="01_guineaPig" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Lists/gaussTrick/gaussTrick/Program.cs" line="12" column="27" endLine="12" endColumn="40" offsetX="-1" offsetY="-1" expression="numbers.Count" liveUpdate="False" />
+    <Watch file="../../../../../Lists/Ex/cardsGame/cardsGame/Program.cs" line="13" column="18" endLine="13" endColumn="27" offsetX="-1" offsetY="-1" expression="firstDeck" liveUpdate="False" />
+    <Watch file="../../../../../Lists/Ex/cardsGame/cardsGame/Program.cs" line="13" column="40" endLine="13" endColumn="56" offsetX="-1" offsetY="-1" expression="secondDeck.Count" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

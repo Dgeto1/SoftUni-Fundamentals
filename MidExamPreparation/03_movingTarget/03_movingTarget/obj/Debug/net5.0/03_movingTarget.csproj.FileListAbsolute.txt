@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/bin/Debug/net5.0/03_movingTarget
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/bin/Debug/net5.0/03_movingTarget.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/bin/Debug/net5.0/03_movingTarget.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/bin/Debug/net5.0/03_movingTarget.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/bin/Debug/net5.0/03_movingTarget.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/bin/Debug/net5.0/03_movingTarget.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/refint/03_movingTarget.dll
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/03_movingTarget.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Exam Preparation/03_movingTarget/03_movingTarget/obj/Debug/net5.0/ref/03_movingTarget.dll
