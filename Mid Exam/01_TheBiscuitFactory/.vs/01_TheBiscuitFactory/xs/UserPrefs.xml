@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6CC25683-9B33-490E-AC5C-5BD622548559}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_TheBiscuitFactory/Program.cs">
+    <Files>
+      <File FileName="01_TheBiscuitFactory/Program.cs" Line="17" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01_TheBiscuitFactory" expanded="True">
+            <Node name="01_TheBiscuitFactory" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01__TheBiscuitFactory PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

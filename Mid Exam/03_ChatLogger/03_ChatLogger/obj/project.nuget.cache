@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+ixKehdcfXThckVJg72mAPLDcVImK9MigdOTWFJ8QimWOLLLBHr3wn8h/djCMz0eBviM10diUG0kke8yw6UKw==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/03_ChatLogger.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

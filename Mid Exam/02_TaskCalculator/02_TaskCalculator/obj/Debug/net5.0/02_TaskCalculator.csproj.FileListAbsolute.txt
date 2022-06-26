@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/bin/Debug/net5.0/02_TaskCalculator
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/bin/Debug/net5.0/02_TaskCalculator.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/bin/Debug/net5.0/02_TaskCalculator.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/bin/Debug/net5.0/02_TaskCalculator.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/bin/Debug/net5.0/02_TaskCalculator.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/bin/Debug/net5.0/02_TaskCalculator.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/refint/02_TaskCalculator.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/02_TaskCalculator.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/02_TaskCalculator/02_TaskCalculator/obj/Debug/net5.0/ref/02_TaskCalculator.dll
