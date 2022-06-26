@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{994C8523-0E51-42DD-852E-0170D59B5F6F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="03_ChatLogger/Program.cs">
+    <Files>
+      <File FileName="03_ChatLogger/Program.cs" Line="35" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03_ChatLogger" expanded="True">
+            <Node name="03_ChatLogger" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03__ChatLogger PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

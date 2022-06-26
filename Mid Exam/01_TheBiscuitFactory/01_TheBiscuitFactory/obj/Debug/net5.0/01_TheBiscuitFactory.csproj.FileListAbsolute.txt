@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/bin/Debug/net5.0/01_TheBiscuitFactory
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/bin/Debug/net5.0/01_TheBiscuitFactory.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/bin/Debug/net5.0/01_TheBiscuitFactory.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/bin/Debug/net5.0/01_TheBiscuitFactory.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/bin/Debug/net5.0/01_TheBiscuitFactory.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/bin/Debug/net5.0/01_TheBiscuitFactory.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/refint/01_TheBiscuitFactory.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/01_TheBiscuitFactory.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/01_TheBiscuitFactory/01_TheBiscuitFactory/obj/Debug/net5.0/ref/01_TheBiscuitFactory.dll

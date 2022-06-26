@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/bin/Debug/net5.0/03_ChatLogger
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/bin/Debug/net5.0/03_ChatLogger.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/bin/Debug/net5.0/03_ChatLogger.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/bin/Debug/net5.0/03_ChatLogger.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/bin/Debug/net5.0/03_ChatLogger.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/bin/Debug/net5.0/03_ChatLogger.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/refint/03_ChatLogger.dll
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/03_ChatLogger.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Mid Exam/03_ChatLogger/03_ChatLogger/obj/Debug/net5.0/ref/03_ChatLogger.dll
