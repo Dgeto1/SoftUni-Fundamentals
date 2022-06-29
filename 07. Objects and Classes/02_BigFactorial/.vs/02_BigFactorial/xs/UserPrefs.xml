@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{826507F6-9DC8-4918-A37C-BDD04C0B8D1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.02__BigFactorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_BigFactorial/Program.cs">
+    <Files>
+      <File FileName="02_BigFactorial/Program.cs" Line="10" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02_BigFactorial" expanded="True">
+            <Node name="02_BigFactorial" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

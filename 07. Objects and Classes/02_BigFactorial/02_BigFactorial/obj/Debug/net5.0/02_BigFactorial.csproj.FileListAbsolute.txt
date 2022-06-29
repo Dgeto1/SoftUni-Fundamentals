@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/bin/Debug/net5.0/02_BigFactorial
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/bin/Debug/net5.0/02_BigFactorial.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/bin/Debug/net5.0/02_BigFactorial.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/bin/Debug/net5.0/02_BigFactorial.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/bin/Debug/net5.0/02_BigFactorial.dll
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/bin/Debug/net5.0/02_BigFactorial.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.dll
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/refint/02_BigFactorial.dll
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/02_BigFactorial.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/02_BigFactorial/02_BigFactorial/obj/Debug/net5.0/ref/02_BigFactorial.dll

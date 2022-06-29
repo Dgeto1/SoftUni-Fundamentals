@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1E2C8513-8207-44D7-BBF7-E54201364A38}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="06_StoreBoxes/Program.cs">
+    <Files>
+      <File FileName="06_StoreBoxes/Program.cs" Line="15" Column="136" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="06_StoreBoxes" expanded="True">
+            <Node name="06_StoreBoxes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.06__StoreBoxes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

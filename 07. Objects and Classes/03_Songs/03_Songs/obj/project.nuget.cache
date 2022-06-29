@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuBECGdsrAtIMD0YeKSA+BfkebJfaIm52dGxvUo6d4v+ut1dq2tvif+p1zdHBxYAmR31ZP4sUnAurk6eP++0kA==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Desktop/Fundamentals/Objects and Classes/03_Songs/03_Songs/03_Songs.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
