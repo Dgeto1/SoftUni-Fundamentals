@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "02_BigFactorial/1.0.0": {
+        "runtime": {
+          "02_BigFactorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_BigFactorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
