@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/bin/Debug/net5.0/02_AMinerTask
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/bin/Debug/net5.0/02_AMinerTask.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/bin/Debug/net5.0/02_AMinerTask.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/bin/Debug/net5.0/02_AMinerTask.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/bin/Debug/net5.0/02_AMinerTask.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/bin/Debug/net5.0/02_AMinerTask.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/refint/02_AMinerTask.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/02_AMinerTask.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/02_AMinerTask/02_AMinerTask/obj/Debug/net5.0/ref/02_AMinerTask.dll
