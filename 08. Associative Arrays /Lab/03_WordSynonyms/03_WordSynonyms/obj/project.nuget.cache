@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2i1h1a0XTMWv134SFcuXeKxtOWSfZ/vHyCXgeNCxAdsrmC0Nu+UBeTxRLa6MCt+RWVCC8mprUcwN0Mx1mYSdHw==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/03_WordSynonyms.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
