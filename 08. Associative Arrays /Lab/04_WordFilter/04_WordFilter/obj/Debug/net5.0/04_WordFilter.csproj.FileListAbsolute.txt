@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/bin/Debug/net5.0/04_WordFilter
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/bin/Debug/net5.0/04_WordFilter.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/bin/Debug/net5.0/04_WordFilter.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/bin/Debug/net5.0/04_WordFilter.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/bin/Debug/net5.0/04_WordFilter.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/bin/Debug/net5.0/04_WordFilter.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/refint/04_WordFilter.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/04_WordFilter.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/04_WordFilter/04_WordFilter/obj/Debug/net5.0/ref/04_WordFilter.dll

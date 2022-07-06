@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/bin/Debug/net5.0/03_WordSynonyms
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/bin/Debug/net5.0/03_WordSynonyms.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/bin/Debug/net5.0/03_WordSynonyms.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/bin/Debug/net5.0/03_WordSynonyms.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/bin/Debug/net5.0/03_WordSynonyms.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/bin/Debug/net5.0/03_WordSynonyms.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/refint/03_WordSynonyms.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/03_WordSynonyms.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Lab/03_WordSynonyms/03_WordSynonyms/obj/Debug/net5.0/ref/03_WordSynonyms.dll
