@@ -1,0 +1,16 @@
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/bin/Debug/net5.0/01_CountCharsInStrings
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/bin/Debug/net5.0/01_CountCharsInStrings.deps.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/bin/Debug/net5.0/01_CountCharsInStrings.runtimeconfig.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/bin/Debug/net5.0/01_CountCharsInStrings.runtimeconfig.dev.json
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/bin/Debug/net5.0/01_CountCharsInStrings.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/bin/Debug/net5.0/01_CountCharsInStrings.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.csproj.AssemblyReference.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.AssemblyInfoInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.AssemblyInfo.cs
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/refint/01_CountCharsInStrings.dll
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.pdb
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/01_CountCharsInStrings.genruntimeconfig.cache
+/Users/hristopapanov/Desktop/Fundamentals/Associative Arrays/Exercise/01_CountCharsInStrings/01_CountCharsInStrings/obj/Debug/net5.0/ref/01_CountCharsInStrings.dll
