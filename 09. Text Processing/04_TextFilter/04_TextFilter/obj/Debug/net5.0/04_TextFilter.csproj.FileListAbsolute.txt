@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/bin/Debug/net5.0/04_TextFilter
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/bin/Debug/net5.0/04_TextFilter.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/bin/Debug/net5.0/04_TextFilter.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/bin/Debug/net5.0/04_TextFilter.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/bin/Debug/net5.0/04_TextFilter.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/bin/Debug/net5.0/04_TextFilter.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/refint/04_TextFilter.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/04_TextFilter.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/04_TextFilter/04_TextFilter/obj/Debug/net5.0/ref/04_TextFilter.dll

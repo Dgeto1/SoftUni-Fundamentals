@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/bin/Debug/net5.0/05_DigitsLettersAndOthers
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/bin/Debug/net5.0/05_DigitsLettersAndOthers.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/bin/Debug/net5.0/05_DigitsLettersAndOthers.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/bin/Debug/net5.0/05_DigitsLettersAndOthers.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/bin/Debug/net5.0/05_DigitsLettersAndOthers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/bin/Debug/net5.0/05_DigitsLettersAndOthers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/refint/05_DigitsLettersAndOthers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/05_DigitsLettersAndOthers.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/05_DigitsLettersAndOthers/05_DigitsLettersAndOthers/obj/Debug/net5.0/ref/05_DigitsLettersAndOthers.dll

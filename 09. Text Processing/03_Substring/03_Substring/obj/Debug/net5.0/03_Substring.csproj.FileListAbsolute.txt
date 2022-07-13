@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/bin/Debug/net5.0/03_Substring
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/bin/Debug/net5.0/03_Substring.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/bin/Debug/net5.0/03_Substring.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/bin/Debug/net5.0/03_Substring.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/bin/Debug/net5.0/03_Substring.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/bin/Debug/net5.0/03_Substring.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/refint/03_Substring.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/03_Substring.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/03_Substring/03_Substring/obj/Debug/net5.0/ref/03_Substring.dll

@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/bin/Debug/net5.0/01_ReverseStrings
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/bin/Debug/net5.0/01_ReverseStrings.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/bin/Debug/net5.0/01_ReverseStrings.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/bin/Debug/net5.0/01_ReverseStrings.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/bin/Debug/net5.0/01_ReverseStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/bin/Debug/net5.0/01_ReverseStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/refint/01_ReverseStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/01_ReverseStrings.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/01_ReverseStrings/01_ReverseStrings/obj/Debug/net5.0/ref/01_ReverseStrings.dll

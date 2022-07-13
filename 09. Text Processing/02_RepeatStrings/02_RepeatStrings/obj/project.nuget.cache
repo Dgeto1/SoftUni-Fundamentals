@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BqcCcgU5rCPK+1f1Lxz1kIkNPvLYnt8h1bSJ5rqBCk1CV197Xtvz1gwBs8db2LqNd0mYmI+av1iojEQS+N0Npg==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/02_RepeatStrings.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
