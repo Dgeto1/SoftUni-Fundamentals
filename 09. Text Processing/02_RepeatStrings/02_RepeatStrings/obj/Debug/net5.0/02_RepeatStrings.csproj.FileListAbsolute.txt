@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/bin/Debug/net5.0/02_RepeatStrings
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/bin/Debug/net5.0/02_RepeatStrings.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/bin/Debug/net5.0/02_RepeatStrings.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/bin/Debug/net5.0/02_RepeatStrings.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/bin/Debug/net5.0/02_RepeatStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/bin/Debug/net5.0/02_RepeatStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/refint/02_RepeatStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/02_RepeatStrings.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/09. Text Processing/02_RepeatStrings/02_RepeatStrings/obj/Debug/net5.0/ref/02_RepeatStrings.dll
