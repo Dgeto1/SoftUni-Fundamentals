@@ -7,33 +7,29 @@ namespace _06_Courses
     {
         static void Main(string[] args)
         {
-            Dictionary<string, int> coursesStudentsCount = new Dictionary<string, int>();
             Dictionary<string, string> coursesStudents = new Dictionary<string, string>();
-            char[] chars = { ' ', ':', ' ' };
+            Dictionary<string, int> coursesStudentsCount = new Dictionary<string, int>();
             string command;
-            while((command=Console.ReadLine())!="end")
+            while((command = Console.ReadLine())!="end")
             {
-                string[] segments = Console.ReadLine().Split(chars);
+                string[] segments = command.Split(" : ");
                 string courseName = segments[0];
-                string student = segments[1];
-                if(!coursesStudentsCount.ContainsKey(courseName))
+                string studentName = segments[1];
+                foreach(var x in coursesStudents)
                 {
-                    coursesStudentsCount[courseName]++;
-                    coursesStudents[courseName] = student; 
-                }
-                else
-                {
-                    coursesStudentsCount[courseName]++;
-                    coursesStudents[courseName] = student;
+                    if(x.Key!=courseName)
+                    {
+                        coursesStudents.Add(courseName, studentName);
+                    }
+                    else
+                    {
+                        coursesStudents[courseName] = studentName;
+                    }
                 }
             }
-            foreach(var x in coursesStudentsCount)
+            foreach(var x in courses)
             {
-                Console.WriteLine($"{x.Key}: {x.Value}");
-            }
-            foreach(var x in coursesStudents)
-            {
-                Console.WriteLine($"-- {x.Value}");
+                Console.WriteLine($"{x.Key} : {x.Value}");
             }
         }
     }
