@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bei2LY/MGIn6J12FOVGlSTKYjKWQ2tX1yN+tWV8nS+m4xkRE1scE+b3044BoJBwJOt+BWt9lYiwdDBCHDe4yKw==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Fundamentals/08. Associative Arrays /Exercise/07_StudentAcademy/07_StudentAcademy/07_StudentAcademy.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
